@@ -1,0 +1,25 @@
+nav {
+    background-color: gold;
+    height: 50px;
+    width: 100%;
+}
+
+.blocks {
+    background-color: grey;
+    height: 270px;
+    width: 30%;
+    display:inline-block;
+    margin-left: 12%;
+    margin-top: 50px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.divmar{
+    margin-left: 20px;
+    text-align: left;
+    color: white;
+}
