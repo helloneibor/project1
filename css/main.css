@@ -1,0 +1,146 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.header_nav {
+    list-style: none;
+    text-align: right;
+    height: 65px;
+    width: 80%;
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.ul1 {
+ text-decoration: none;
+    color: black;
+    margin-right: 25px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    background-color: gold;
+}
+
+nav li {
+    display: inline-block;
+    width: 20%;
+    margin-top: 15px;
+}
+
+.divmarg {
+    background-color: grey;
+    height: 270px;
+    width: 30%;
+    display:inline-block;
+    margin-left: 12%;
+    margin-top: 20px;
+}
+
+.maindiv {
+    margin-left: 35%;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.blocks {
+    background-color: grey;
+    padding: 0%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 32%;
+    height: 80%;
+    display: inline-block;
+}
+
+.para1 {
+    color: white;
+}
+
+.readmore {
+    color: #9fd9f2;
+    text-align: center;
+}
+
+.readmore2 {
+    text-align: center;
+}
+
+.readmore3 {
+    color: gold;
+}
+
+
+#ul2 {
+    margin: 0px;
+    margin-left: 98px;
+    margin-top: 0px;
+    display: inline-block;
+}
+
+/*nav .ul3 {*/
+/*    float: right;*/
+/*    margin-right: 50px;*/
+/*    list-style: none;*/
+/*    width: 75px;*/
+
+
+.para1 {
+    margin-left: 28px;
+    margin-right: 10px;
+}
+
+#img1 {
+    margin: 3%;
+    margin-top: 0px;
+    height: 241px;
+    width: 288px;
+    display: inline-block;
+}
+
+#img1 {
+    float: left
+}
+
+.wl1 {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 3.5em;
+    font-family: sans-serif;
+    text-align: center
+}
+
+header {
+    margin: 0px;
+    background-color:gold;
+}
+
+footer {
+    background-color:gold;
+}
+
+#footer_id {
+    list-style: none;
+    text-align: right;
+    height: 65px;
+    width: 100%;
+    margin-right:15px;
+}
+
+.ul4 {
+ text-decoration: none;
+    color: black;
+    margin-right: 125px;
+}
+
+#block1 {
+    padding-top: 14px;
+}
+
